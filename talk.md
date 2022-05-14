@@ -156,3 +156,5 @@
 
 * show off Vim plugins for VSCode and Intellj or C-Lion cause I'm a 
   pleb who only codes in C
+  
+* adding this
