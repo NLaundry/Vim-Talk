@@ -140,3 +140,19 @@
 
 ### Cracking the baseline usability
 
+* So there's a few major UI things that just suck about baseline Vim
+* If you want to navigate by line numbers and '20j'ing your way around 
+  not having line numbers really hits close to home.
+* So that's the first thing we're going to address.
+* Vim is entirely configured through text files.
+* we use a file called .vimrc which is located in the home dir
+* so let's start there
+
+### Going through plugins
+
+* just go through your config and then go to some githubs.
+
+## Integrating Vim into other workflows
+
+* show off Vim plugins for VSCode and Intellj or C-Lion cause I'm a 
+  pleb who only codes in C
